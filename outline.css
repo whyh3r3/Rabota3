@@ -1,0 +1,125 @@
+html,
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+body {
+  min-width: 430px;
+  background-color: #0a0a0a;
+}
+
+h4{
+  font-size: ;
+}
+footer {
+  background-color: #000000;
+  border: 3px solid #403a3a;
+  color: white;
+}
+
+header{
+  line-height: 30px;
+  background-color: #000000;
+  color: yellow;
+  border: 3px solid #403a3a;
+  font-size: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav{
+  background-color: #000000;
+  color: blue;
+}
+
+section {
+  background-color: #000000;
+  border: 3px solid #403a3a;
+  color: #e3256b;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h3 {
+  line-height: 25px;
+  font-size: 25px;
+  color: #e3256b;
+  background-color: #000000;
+  margin-left: auto;
+  margin-right: auto;
+  width: 9em;
+}
+
+h2{
+  line-height: 40px;
+  font-size: 40px;
+  color: #8ffe09;
+  margin-left: auto;
+  margin-right: auto;
+  width: 7em;
+}
+
+h1{
+  font-size: 30px;
+}
+
+li{
+  font-size: 30px;
+}
+
+button{
+  background-color: black;
+  border: 3px solid #403a3a;
+  color: #e3256b;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main{
+  padding: 20px;
+}
+
+
+.navi{
+  font-size: 30px;
+}
+
+.logo{
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em
+}
+
+.conts{
+  color: white;
+}
+
+.howc{
+  font-size: 24px;
+}
+
+.way{
+  font-size: 20px;
+}
+
+* {
+  position: relative;
+  padding: 25px 25px 20px;
+  margin: 0;
+}
+
+*:not(:last-child) {
+  margin-bottom: 20px;
+}
+
